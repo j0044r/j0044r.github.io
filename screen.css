@@ -1,5 +1,8 @@
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+h1{
+ font-size: 8cm;
+ color: #ffc300;
+}, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -47,10 +50,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   font-family: sans-serif;
-  color: #2a2a2a; }
+  color: #5a5a5a; }
 
 a {
-  color: #0388a6; }
+  color: #ff69b4; }
   a:hover {
     color: #009ce0; }
 
